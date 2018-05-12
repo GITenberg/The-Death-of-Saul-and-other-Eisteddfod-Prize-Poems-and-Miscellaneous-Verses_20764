@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '36785'
     url: http://www.gutenberg.org/2009/agents/36785
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20764#The-Death-of-Saul-and-other-Eisteddfod-Prize-Poems-and-Miscellaneous-Verses
 gutenberg_issued: '2007-03-15'
 gutenberg_type: Text
 identifiers:
